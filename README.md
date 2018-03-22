@@ -2,7 +2,7 @@
 
 Movifai es un website que te permite ver películas. Lo particular de este producto es que te recomendamos películas de acuerdo a tu estado de ánimo. Asimismo, puedes buscar las peli que quieras. Todo esto con el objetivo de brindar rapidéz al usuario al momento de escoger.
 
-![image](https://user-images.githubusercontent.com/32299835/37751115-7a3d718e-2d5e-11e8-84fa-501c0da2c2dc.png)
+![image](https://user-images.githubusercontent.com/32299835/37751521-05a0bac2-2d61-11e8-9da6-449afb4e8363.png)
 
 ## Desarrollado para
  [Laboratoria](http://laboratoria.la)
